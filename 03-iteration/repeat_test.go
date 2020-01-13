@@ -1,6 +1,6 @@
 // Let's write a test for a function that repeats a character 5 times.
 
-package iteration
+package _3_iteration
 
 import (
 	"fmt"
